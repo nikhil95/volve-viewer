@@ -1,0 +1,17 @@
+html {
+    overflow-y: hidden !important;
+}
+
+.no-select {
+    user-select: none;
+}
+
+.text-ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.v-toolbar__content{
+ 
+}
