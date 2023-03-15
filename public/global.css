@@ -12,10 +12,6 @@ html {
     white-space: nowrap;
 }
 
-.v-toolbar__content{
-
-}
-
 .toolbar-button{
     display: none !important;
 }
