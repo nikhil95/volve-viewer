@@ -16,3 +16,7 @@ html {
   height: 50px !important;
  margin-top: 4px;
 }
+
+.toolbar-button{
+    display: none !important;
+}
