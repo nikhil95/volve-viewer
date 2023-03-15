@@ -1,7 +1,7 @@
 <template>
   <div>
    
-    <img src="https://www.rezlytix.com/images/logo/rezlytix%20logo_white.png" style="width:200px;height:110px;">
+  <img src="https://rezlabs.ai/images/rezlabs-white.png" style="width:200px;height:50px;margin-top:4px">
   </div>
 </template>
 
